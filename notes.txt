@@ -1,0 +1,2 @@
+Command to install shadcn components:
+    - npx shadcn@latest add
